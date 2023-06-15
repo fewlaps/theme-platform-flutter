@@ -1,16 +1,7 @@
 # theme_platform_flutter
 
-Print Theme.of(context) platform
+This project just prints the result of `Theme.of(context).platform` in the center of the screen.
 
-## Getting Started
+It's useful to see how different devices perform. Actually, it was a way to prove that an iPad is considered a MacOS device when the app has been built for the web.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Do you want to use it online? Check this link: https://flutterthemeplatform.codemagic.app
